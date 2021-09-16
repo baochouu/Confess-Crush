@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "Hành tinh của Chouu",
-    introTitle: 'Quòa',
+    introTitle: 'Ngọc',
     introDesc: `hôm nay mệt mỏi rã rời
-    Chouu thèm trà sữa Quòa mời được không`,
+    Chouu thèm trà sữa Ngọc mời được không`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Chouu đang thèm trà sữa =)',
-    desc: 'Phải chăng Quòa sẽ mua trà sữa cho Chouu ',
+    desc: 'Phải chăng Ngọc sẽ mua trà sữa cho Chouu ',
     btnYes: 'Mua cho Chou thật nhiều <33',
     btnNo: 'Không thèm mua cho Chouu :3',
     question: 'Thế giới có nhiểu món nhưng Chou chỉ thích thịt crush và trà sữa<3',
